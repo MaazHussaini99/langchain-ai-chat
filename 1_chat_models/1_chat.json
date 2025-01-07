@@ -1,0 +1,30 @@
+{
+    "content=": "81 divided by 9 is 9.",
+    "response_metadata=": {
+        "token_usage": {
+            "completion_tokens": 10,
+            "prompt_tokens": 16,
+            "total_tokens": 26,
+            "prompt_tokens_details": {
+                "cached_tokens": 0,
+                "audio_tokens": 0
+            },
+            "completion_tokens_details": {
+                "reasoning_tokens": 0,
+                "audio_tokens": 0,
+                "accepted_prediction_tokens": 0,
+                "rejected_prediction_tokens": 0
+            }
+        },
+        "model_name": "gpt-4o",
+        "system_fingerprint": "fp_5f20662549",
+        "finish_reason": "stop",
+        "logprobs": null
+    },
+    "id=": "run-5ee3896b-ab2d-4b12-acca-1686d0333e55-0",
+    "usage_metadata=": {
+        "input_tokens": 16,
+        "output_tokens": 10,
+        "total_tokens": 26
+    }
+}
